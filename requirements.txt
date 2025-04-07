@@ -4,6 +4,4 @@ faiss-cpu==1.7.4
 python-dotenv==1.0.0
 tiktoken==0.5.1
 openai==0.27.10
-# gemini==0.3.1
-# fireworks==0.4.0
 sentence_transformers==2.2.2
